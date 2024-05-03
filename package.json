@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "server": "json-server --watch db.json --port 8000"
+    "server": "json-server --watch db.json"
   },
   "browserslist": {
     "production": [
